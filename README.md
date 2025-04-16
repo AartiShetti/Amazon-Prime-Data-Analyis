@@ -14,4 +14,4 @@ Here's what I actually Analysed:
 • Typical length of movies or number of seasons for TV shows  
 • Identified and handled null or missing values  
 • Used Python libraries (Pandas,Matplotlib) to visualize trends  
-• Created Power BI dashboards   
+• Created Power BI Dashboard   
