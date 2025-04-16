@@ -15,3 +15,4 @@ Here's what I actually Analysed:
 • Identified and handled null or missing values  
 • Used Python libraries (Pandas,Matplotlib) to visualize trends  
 • Created Power BI Dashboard   
+![image](https://github.com/user-attachments/assets/405cd045-e540-4f5c-8c12-089cc8139496)
