@@ -1,3 +1,4 @@
+# Amazon Prime Data Analysis
 My project involves exploratory data analysis (EDA) on an Amazon Prime dataset.  
 **The goal was to**:  
 Clean and analyze the dataset using Python (Pandas, Matplotlib).  
