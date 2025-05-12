@@ -24,5 +24,33 @@ Here's what I actually Analysed:
 
 Power BI, Python (Pandas, Matplotlib)
 
+# Key Features:
 
+Total Titles: 9,655
+
+Time Range: 1920–2021
+
+519 genres, 25 rating types, 5,771 directors
+
+Content Type Distribution:
+
+TV Shows: 80.82%
+
+Movies: 19.18%
+
+Top Genres:
+
+Drama, Comedy, Suspense, Documentary
+
+Ratings Breakdown:
+
+Most frequent: 13+, 16+, ALL
+
+Geographic Analysis:
+
+Top countries contributing to content identified using map visual
+
+Release Trends:
+
+Steady increase in content, sharp growth post-2010
 
